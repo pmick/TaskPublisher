@@ -1,3 +1,3 @@
 # TaskPublisher
 
-A description of this package.
+A publisher that executes an async functions.
